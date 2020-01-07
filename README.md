@@ -3,7 +3,7 @@ Random GUID or API Generator
 
 ### Interactive Repl.it
 
-https://repl.it/@AmieDD/Random-generate-GUID
+[![Run on Repl.it](https://repl.it/badge/github/AmieDD/RandomGUIDGenerator)](https://repl.it/github/AmieDD/RandomGUIDGenerator)
 
 ```javascript
 /* Create random GUID generator for API 
